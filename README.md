@@ -1,16 +1,14 @@
-### Hi there 👋
+Greetings, I am Richard
 
-<!--
-**DzelmeRichards/DzelmeRichards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front-End Software developer from Latvia with passion for creating beautiful and functional applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am familiar with HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Angular.js, Node.js basics, Git and DRY and Clean Code principles.
+
+---
+
+Currently i am learning Angular.js.
+I am keen on learning new skills.
+
+---
