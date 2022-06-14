@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, I am Richard</h1>
 <h3 align="center">Front-End Software developer from Latvia with passion for creating beautiful and functional applications.</h3>
 
-- 📫 How to reach me **dzelme.richards@gmail.com**
+- 📫 Reach me at **dzelme.richards@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
