@@ -18,4 +18,8 @@ I am keen on learning new skills.
 
 LinkedIn https://www.linkedin.com/in/ricards-dzelme/
 
+Mail dzelme.richards@gmail.com
+
+Tel +371 26679822
+
 ---
