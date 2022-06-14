@@ -15,3 +15,7 @@ Currently i am learning Angular.js.
 I am keen on learning new skills.
 
 ---
+
+LinkedIn https://www.linkedin.com/in/ricards-dzelme/
+
+---
