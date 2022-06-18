@@ -16,3 +16,5 @@
 https://github.com/DzelmeRichards/17-MD-API
 
 https://github.com/DzelmeRichards/MD29-Angular.Js-Joke-app-
+
+https://github.com/DzelmeRichards/MD-30-Angular.Js-Rick-Morty-API
