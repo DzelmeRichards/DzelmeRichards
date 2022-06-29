@@ -15,6 +15,6 @@
 
 https://github.com/DzelmeRichards/ReactJs-Rick-And-Morty-API
 
-https://github.com/DzelmeRichards/MD29-Angular.Js-Joke-app-
+https://github.com/DzelmeRichards/Angular-Joke-app
 
-https://github.com/DzelmeRichards/MD-30-Angular.Js-Rick-Morty-API
+https://github.com/DzelmeRichards/Angular-Rick-Morty-API
