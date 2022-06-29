@@ -13,7 +13,7 @@
 
 <h3 align="left">Few of my favorite projects:</h3>
 
-https://github.com/DzelmeRichards/17-MD-API
+https://github.com/DzelmeRichards/ReactJs-Rick-And-Morty-API
 
 https://github.com/DzelmeRichards/MD29-Angular.Js-Joke-app-
 
