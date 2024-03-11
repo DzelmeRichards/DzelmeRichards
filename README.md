@@ -28,3 +28,7 @@ https://github.com/DzelmeRichards/Angular-Rick-Morty-API
 https://angular-rick-n-morty-api.netlify.app/
 
 ---
+
+https://github.com/DzelmeRichards/angular-recipe-book
+
+---
