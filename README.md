@@ -29,6 +29,7 @@ https://angular-rick-n-morty-api.netlify.app/
 
 ---
 
+<p>Will be deployed, when finshed</p>
 https://github.com/DzelmeRichards/angular-recipe-book
 
 ---
