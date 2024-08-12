@@ -30,7 +30,17 @@ https://angular-rick-n-morty-api.netlify.app/
 ---
 
 https://github.com/DzelmeRichards/angular-recipe-book
-<p>You can see my deployed project:</p>
+
+<p>You can see my project deployed:</p>
+
 https://angular-recipe-book-31f51.web.app
+
+<p>Code coverage:</p>
+  
+![code coverage screenshot](https://github.com/user-attachments/assets/78876c9d-188c-4af7-a43e-64bbe2a9de04)
+
+<p>Lighthouse analysis:</p>
+
+![lighthouse](https://github.com/user-attachments/assets/ba33981c-1821-45df-b897-15a257955235)
 
 ---
