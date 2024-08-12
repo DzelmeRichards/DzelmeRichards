@@ -30,5 +30,7 @@ https://angular-rick-n-morty-api.netlify.app/
 ---
 
 https://github.com/DzelmeRichards/angular-recipe-book
+<p>You can see my deployed project:</p>
+https://angular-recipe-book-31f51.web.app
 
 ---
