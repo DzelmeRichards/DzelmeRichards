@@ -15,20 +15,6 @@
 
 ---
 
-https://github.com/DzelmeRichards/ReactJs-Rick-And-Morty-API
-
----
-
-https://github.com/DzelmeRichards/Angular-Joke-app
-
----
-
-https://github.com/DzelmeRichards/Angular-Rick-Morty-API
-<p>You can see my project at:</p>
-https://angular-rick-n-morty-api.netlify.app/
-
----
-
 https://github.com/DzelmeRichards/angular-recipe-book
 
 <p>You can see my project deployed:</p>
@@ -42,5 +28,19 @@ https://angular-recipe-book-31f51.web.app
 <p>Lighthouse analysis:</p>
 
 ![lighthouse](https://github.com/user-attachments/assets/ba33981c-1821-45df-b897-15a257955235)
+
+---
+
+https://github.com/DzelmeRichards/Angular-Rick-Morty-API
+<p>You can see my project at:</p>
+https://angular-rick-n-morty-api.netlify.app/
+
+---
+
+https://github.com/DzelmeRichards/ReactJs-Rick-And-Morty-API
+
+---
+
+https://github.com/DzelmeRichards/Angular-Joke-app
 
 ---
